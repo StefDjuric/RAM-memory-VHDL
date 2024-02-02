@@ -1,0 +1,26 @@
+# Compile of ramMemorija.vhd was successful.
+vsim -gui work.rammemorija
+# vsim -gui work.rammemorija 
+# Start time: 19:46:28 on Feb 01,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.rammemorija(arhmemorije)
+add wave -position end  sim:/rammemorija/velicinaRijeci
+add wave -position end  sim:/rammemorija/brojRijeci
+add wave -position end  sim:/rammemorija/takt
+add wave -position end  sim:/rammemorija/dozvolaUpisa
+add wave -position end  sim:/rammemorija/adresa
+add wave -position end  sim:/rammemorija/podaci
+add wave -position end  sim:/rammemorija/memorija
+force takt 1
+force dozvolaUpisa 1
+force adresa 6
+run 500
+force takt 0
+run 300
+force takt 1 
+force dozvolaUpisa 0
+run 500
+# End time: 19:50:34 on Feb 01,2024, Elapsed time: 0:04:06
+# Errors: 0, Warnings: 5

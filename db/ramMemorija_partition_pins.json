@@ -1,0 +1,45 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "podaci[0]",
+					"strict" : false
+				},
+				{
+					"name" : "podaci[1]",
+					"strict" : false
+				},
+				{
+					"name" : "podaci[2]",
+					"strict" : false
+				},
+				{
+					"name" : "podaci[3]",
+					"strict" : false
+				},
+				{
+					"name" : "adresa[0]",
+					"strict" : false
+				},
+				{
+					"name" : "adresa[1]",
+					"strict" : false
+				},
+				{
+					"name" : "adresa[2]",
+					"strict" : false
+				},
+				{
+					"name" : "dozvolaUpisa",
+					"strict" : false
+				},
+				{
+					"name" : "takt",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,31 @@
+|ramMemorija
+takt => memorija~7.CLK
+takt => memorija~0.CLK
+takt => memorija~1.CLK
+takt => memorija~2.CLK
+takt => memorija~3.CLK
+takt => memorija~4.CLK
+takt => memorija~5.CLK
+takt => memorija~6.CLK
+takt => memorija.CLK0
+dozvolaUpisa => memorija~7.DATAIN
+dozvolaUpisa => podaci[0].OE
+dozvolaUpisa => podaci[1].OE
+dozvolaUpisa => podaci[2].OE
+dozvolaUpisa => podaci[3].OE
+dozvolaUpisa => memorija.WE
+adresa[0] => memorija~2.DATAIN
+adresa[0] => memorija.WADDR
+adresa[0] => memorija.RADDR
+adresa[1] => memorija~1.DATAIN
+adresa[1] => memorija.WADDR1
+adresa[1] => memorija.RADDR1
+adresa[2] => memorija~0.DATAIN
+adresa[2] => memorija.WADDR2
+adresa[2] => memorija.RADDR2
+podaci[0] <> podaci[0]
+podaci[1] <> podaci[1]
+podaci[2] <> podaci[2]
+podaci[3] <> podaci[3]
+
+

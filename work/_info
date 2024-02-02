@@ -1,0 +1,52 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Admin/Desktop/VHDL/jk_ff
+Erammemorija
+Z0 w1706812665
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z3 dC:/Users/Admin/Desktop/VHDL/RamMemorija
+Z4 8C:/Users/Admin/Desktop/VHDL/RamMemorija/ramMemorija.vhd
+Z5 FC:/Users/Admin/Desktop/VHDL/RamMemorija/ramMemorija.vhd
+l0
+L4 1
+V;LYo=C]2`YU7dKcFiDe@F1
+!s100 dM?53I5cUzlDB5<@I[Loe0
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1706813173
+!i10b 1
+Z8 !s108 1706813173.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Admin/Desktop/VHDL/RamMemorija/ramMemorija.vhd|
+!s107 C:/Users/Admin/Desktop/VHDL/RamMemorija/ramMemorija.vhd|
+!i113 1
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1 CvgOpt 0
+Aarhmemorije
+R1
+R2
+DEx4 work 11 rammemorija 0 22 ;LYo=C]2`YU7dKcFiDe@F1
+!i122 0
+l26
+L19 22
+V1[M:gLSSoGFOf9@H[fG@90
+!s100 a`GD;RX0iU5M64zkOZ1db3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+Z12 !s107 C:/Users/Admin/Desktop/VHDL/RamMemorija/ramMemorija.vhd|
+!i113 1
+R10
+R11

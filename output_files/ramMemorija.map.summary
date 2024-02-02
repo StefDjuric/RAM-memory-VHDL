@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Feb  1 19:38:11 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : ramMemorija
+Top-level Entity Name : ramMemorija
+Family : Cyclone IV E
+Total logic elements : 60
+    Total combinational functions : 28
+    Dedicated logic registers : 32
+Total registers : 32
+Total pins : 9
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
